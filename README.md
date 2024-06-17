@@ -1,2 +1,2 @@
 # Online-Voting-App
-Application made for Android devices for online voting
+I’ve developed an innovative online voting system application tailored for Android devices, utilizing Android Studio, Java, and Firebase Firestore. This app revolutionizes the voting process by empowering administrators to manage candidates seamlessly—adding, updating, and deleting as needed—while also tracking the total vote count in real-time. Users can register effortlessly with their email, browse the candidate list, and cast their vote securely. Designed to ensure a democratic process, this application is a testament to modern electoral convenience and efficiency.
