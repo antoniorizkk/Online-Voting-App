@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home"/>
+        <item android:id="@+id/nav_search"
+            android:title="Search Candidate"
+            android:icon="@drawable/search"/>
+        <item android:id="@+id/nav_candidates"
+            android:title="Candidates"
+            android:icon="@drawable/candidate"/>
+        <item android:id="@+id/nav_users"
+            android:title="Users"
+            android:icon="@drawable/user"/>
+
+    </group>
+    <group android:checkableBehavior="single">
+        <item android:title="Authenticate">
+            <menu>
+                <group>
+                    <item android:id="@+id/nav_logout"
+                        android:title="Logout"
+                        android:icon="@drawable/logout"/>
+                </group>
+            </menu>
+        </item>
+    </group>
+</menu>
